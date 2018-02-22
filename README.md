@@ -21,6 +21,7 @@ Get help on arguments for each python file via `python <script name>.py -h`.
 
 ## Script requirements (versions used)
 
+* python (2.7)
 * numpy (1.13.1)
 * scikit-learn (0.19.0)
 * lda (1.0.5)
