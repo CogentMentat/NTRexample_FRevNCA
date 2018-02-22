@@ -8,7 +8,7 @@ Example code producing novelty, transience, and resonance for a sample of legisl
 
 ## Scripts
 
-Get help on arguments for each python file via `python *.py -h`.
+Get help on arguments for each python file via `python <script name>.py -h`.
 
 * `calculate_novelty_transience_resonance.py` takes a text file of topic mixtures as rows and produces the three named measures.
 * `learn_topics.py` produces topics, topic mixtures, and vocabulary given a text file, one document per row.  In this example, documents are speeches.
