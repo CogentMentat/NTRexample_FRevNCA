@@ -2,9 +2,11 @@
 
 Example code producing novelty, transience, and resonance for a sample of legislative speech during the French Revolution, as documented in [Individuals, Institutions, and Innovation in the Debates of the French Revolution](https://arxiv.org/abs/1710.06867).
 
+See also the [associated dataset](https://github.com/CogentMentat/FRevNCA_CuratedData).
+
 ## Data
 
-* `example_FRev_speech_data_rawspeechonly_1790-06-01_1790-07-01.txt` contains one month of raw speeches from the [French Revolution Digital Archive](https://frda.stanford.edu/en/ap).
+* `example_FRev_speech_data_rawspeechonly_1790-06-01_1790-07-01.txt` contains one month of raw speeches from the [French Revolution Digital Archive](https://frda.stanford.edu).
 
 ## Scripts
 
